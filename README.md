@@ -65,18 +65,6 @@ A complete recursive listing of all files accessible in the container at export 
 
 ---
 
-## Repository name ideas
-
-| Name | Style |
-|------|-------|
-| `claude-sandbox-env` | Clean, descriptive |
-| `claude-container-snapshot` | Explicit |
-| `anthropic-execution-env` | Formal |
-| `claude-tool-env` | Short |
-| `inside-claude-box` | Catchy |
-
----
-
 ## About (for GitHub)
 
 > A complete snapshot of Claude's isolated Linux execution environment — OS, CPU/RAM specs, all pre-installed Python and Node.js packages, Skills (structured instruction sets), environment variables, running processes, and full file tree. Useful for anyone building on top of Claude's tool-use / computer-use capabilities.
