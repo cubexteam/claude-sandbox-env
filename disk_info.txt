@@ -1,0 +1,12 @@
+Filesystem      Size  Used Avail Use% Mounted on
+none            9.9G  259M  9.6G   3% /
+none            315G     0  315G   0% /dev
+none            315G     0  315G   0% /dev/shm
+none            315G     0  315G   0% /sys/fs/cgroup
+none            1.0P     0  1.0P   0% /mnt/transcripts
+none            768K  768K     0 100% /mnt/skills/public
+none            9.9G  259M  9.6G   3% /container_info.json
+none            5.4M  5.4M     0 100% /mnt/skills/examples
+none            1.0P     0  1.0P   0% /mnt/user-data/outputs
+none            1.0P     0  1.0P   0% /mnt/user-data/uploads
+none            1.0P     0  1.0P   0% /mnt/user-data/tool_results
