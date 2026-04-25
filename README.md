@@ -65,15 +65,6 @@ A complete recursive listing of all files accessible in the container at export 
 
 ---
 
-## About (for GitHub)
-
-> A complete snapshot of Claude's isolated Linux execution environment — OS, CPU/RAM specs, all pre-installed Python and Node.js packages, Skills (structured instruction sets), environment variables, running processes, and full file tree. Useful for anyone building on top of Claude's tool-use / computer-use capabilities.
-
-**Topics / tags:**
-`claude` `anthropic` `ai` `llm` `sandbox` `container` `ubuntu` `python` `nodejs` `skills` `computer-use` `tool-use` `environment` `snapshot` `gvisor`
-
----
-
 ## License
 
 This export is provided as-is for educational and research purposes.
